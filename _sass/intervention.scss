@@ -1,3 +1,17 @@
+#interventions {
+    position: relative;
+    margin-top: 5em;
+    h2 {
+        position: absolute;
+        left: -50%;
+        right: -50%;
+        text-align: center;
+        font-size: 8.5em;
+        top: 0px;
+        z-index: -1;
+        color: $pink;
+    }
+}
 .interventions_liste {
     list-style: none;
     margin: 0;
@@ -11,14 +25,37 @@
     overflow-x: scroll;
     padding-bottom: 15px;
     padding-top: 10px;
+    a {text-decoration: none;}
     a li:hover {
-        background-color: $yellow;
+        //background-color: $yellow;
+        //box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        h3 {text-decoration: underline;}
     }
     li {
         border-radius: 3px;
         width: 250px;
-        height: 300px;
+        height: 310px;
         //box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        //box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .presta_img {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80%;
+            img {width: auto; max-width: 100%;}
+        }
+        h3 {width: 100%; text-align: center; height: 10%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Montserrat", sans-serif;
+            text-decoration: none;
+            color: black;
+        }
     }
 }
