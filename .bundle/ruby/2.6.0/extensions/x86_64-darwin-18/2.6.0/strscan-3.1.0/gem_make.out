@@ -1,0 +1,17 @@
+current directory: /Users/thomashunckler/code/thomas6791/petite-bete-qui-pique/.bundle/ruby/2.6.0/gems/strscan-3.1.0/ext/strscan
+/Users/thomashunckler/.rbenv/versions/2.6.3/bin/ruby -I /Users/thomashunckler/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20240729-29084-zgt8lg.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/thomashunckler/code/thomas6791/petite-bete-qui-pique/.bundle/ruby/2.6.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/thomashunckler/code/thomas6791/petite-bete-qui-pique/.bundle/ruby/2.6.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/thomashunckler/code/thomas6791/petite-bete-qui-pique/.bundle/ruby/2.6.0/gems/strscan-3.1.0/ext/strscan
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240729-29084-colko0
