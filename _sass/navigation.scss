@@ -1,5 +1,23 @@
 #nav_main {
-    border: solid 1px;
-    display: flex;
-    justify-content: space-between;
+    background-color: white;
+    //border: solid 1px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    .nav {
+        //border: solid 1px;
+        display: flex;
+        justify-content: space-between;
+    }
+    div {
+        display: flex;
+        align-items: center;
+    }
+    a {text-decoration: none; color: black;
+        font-family: "Montserrat", sans-serif;
+        margin-right: 10px;
+        &:hover {text-decoration: underline;}
+    }
+    .logo_link {margin: 0;}
 }

@@ -1,8 +1,12 @@
-<nav id="nav_main">
-    <div>
-    {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-    {% endfor %}
+<nav id="nav_main" class="shadow">
+    <div class="nav inside">
+        <div>
+            <a href=""><img src="/assets/images/la-petite-bete-qui-pique-logo.png" class="logo_link" alt="" width="80px">
+            </a>
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+        {% endfor %}
+        </div>
+        <a href="" class="btn yellow">06 69 51 59 50</a>
     </div>
-    <a href="" class="btn yellow">06 69 51 59 50</a>
 </nav>

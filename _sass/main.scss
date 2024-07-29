@@ -4,3 +4,18 @@ body {
 .current {
     color: green;
 }
+.inside {
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+}
+main {
+    min-height: 100vh;
+}
+.big_titre {
+    font-family: "Inter";
+    font-size: 3em;
+}
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}

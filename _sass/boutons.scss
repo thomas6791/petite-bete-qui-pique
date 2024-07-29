@@ -1,6 +1,8 @@
 .btn {
-    border: solid 1px;
+    //border: solid 1px;
+    padding: 2px 10px;
+    border-radius: 2px;
     &.yellow {
-        background-color: yellow;
+        background-color: $yellow;
     }
 }
