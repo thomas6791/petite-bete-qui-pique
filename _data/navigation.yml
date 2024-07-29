@@ -1,3 +1,5 @@
+- name: Prestations
+  link: /prestations.html
 - name: A propos
   link: /about.html
 - name: Actualites
