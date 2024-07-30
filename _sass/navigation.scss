@@ -35,6 +35,16 @@
     height: 0;
 }
 
+@keyframes visible_nav {
+    0% {
+        width:0; visibility: hidden;
+      }
+    100% {
+        width:100%; visibility: visible;
+    }
+  }
+
+
 @media only screen and (max-width: 40em) { 
     #nav_main {
         .nav {display: none;}
@@ -52,9 +62,9 @@
         position: fixed;
         border: solid 2px red;
         width: 0;
-        height: 0;
         top: 0;
         background-color: blue;
+        height: 100vh;
         .mobile_nav_content {
             border: solid 1px red;
             display: flex;
@@ -65,7 +75,6 @@
             
             ul {
                 width: 100%;
-                border: solid;
                 margin: 0;
                 padding: 0;
                 list-style: none;
@@ -76,9 +85,7 @@
             padding: 10px 15px;
         }
         &.visible {
-            visibility: visible;
-            width:100%;
-            height: 100vh;
+            animation: visible_nav 0.5s linear 0.1s 1 normal forwards;
         }
     }
 }
