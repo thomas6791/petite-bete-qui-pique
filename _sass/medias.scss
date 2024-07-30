@@ -22,7 +22,7 @@
 @media only screen { } /* Define mobile styles - Mobile First */
  
 @media only screen and (max-width: 40em) { 
-  #nav_main {display: none;}
+  //#nav_main {display: none;}
 } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
  
 /* Medium screens - TABLET */
