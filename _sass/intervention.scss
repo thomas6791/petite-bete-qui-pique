@@ -59,4 +59,10 @@
             color: black;
         }
     }
+    a:hover:nth-child(odd) {
+        background-color: rgb(212 169 104/ 40%);
+    }
+    a:hover:nth-child(even) {
+        background-color: rgb(220 21 113 / 40%);
+    }
 }
