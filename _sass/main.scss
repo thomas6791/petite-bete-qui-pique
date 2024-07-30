@@ -8,6 +8,7 @@ body {
     width: 100%;
     max-width: 1024px;
     margin: auto;
+    padding: 0px 10px;
 }
 main {
     min-height: 100vh;
@@ -18,4 +19,27 @@ main {
 }
 .shadow {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+p {
+    font-family: "Montserrat", sans-serif;
+}
+.big_titre {
+    font-size: 8em;
+    text-align: center;
+}
+#chapo {
+    display: flex;
+    margin-top: 7em;
+    justify-content: space-between;
+    img {}
+    div{
+        width: 80%;
+        display: flex;
+        flex-direction:column;
+        p{}
+        a {
+            width: fit-content;
+            //align-self: end;
+        }
+    }
 }
