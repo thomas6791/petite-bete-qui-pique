@@ -67,3 +67,13 @@
         background-color: rgb(71 66 51/40%);
     }
 }
+@media only screen and (max-width: 40em) {
+    #interventions {
+        margin-top: 0;
+        h2 {
+            position: initial;
+            word-break: break-all;
+            font-size: 4.5em;
+        }
+    }
+}
