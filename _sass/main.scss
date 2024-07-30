@@ -43,3 +43,40 @@ p {
         }
     }
 }
+#urgence {
+    position: relative;
+    display: flex;
+    align-items: center;
+    img {width: 320px; transform:scaleX(-1);}
+    h2 {position: absolute;
+        top: 90px;
+        right: 0px;
+        z-index: -1;
+        color: $yellow;
+        margin: 0;
+    }
+    .urgence_text {
+        align-self: end;
+    }
+}
+@media only screen and (max-width: 40em) {
+    #urgence {
+        flex-direction: column;
+        position: relative;
+        h2 {font-size: 4.5em; position: initial;}
+        .urgence_img {
+            position: absolute;
+            z-index: -2;
+            top: 1em;
+        }
+        .urgence_text {
+            margin-top: 10em;
+        }
+        .ctas {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            a {width: 70%; margin-bottom: 1.2em; text-align: center; font-size: 1.3em;}
+        }
+    }
+}
