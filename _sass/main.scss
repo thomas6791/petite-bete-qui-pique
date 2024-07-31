@@ -88,4 +88,8 @@ p, input, label, a, textarea, select, button {
             a {width: 70%; margin-bottom: 1.2em; text-align: center; font-size: 1.3em; line-height: 2em;}
         }
     }
+    .big_titre {
+        word-break: break-all;
+        font-size: 4.5em;
+    }
 }

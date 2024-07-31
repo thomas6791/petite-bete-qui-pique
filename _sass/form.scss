@@ -23,3 +23,11 @@
         margin-bottom: 10px;
     }
 }
+@media only screen and (max-width: 40em) {
+    #form {
+        width: 100%;
+        .inline_form {
+            grid-template-columns: 1fr;
+        }
+    }
+}
