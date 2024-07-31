@@ -20,11 +20,13 @@ main {
 .big_titre {
     font-family: "Inter";
     font-size: 3em;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .shadow {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
-p {
+p, input, label, a, textarea, select {
     font-family: "Montserrat", sans-serif;
 }
 .big_titre {
