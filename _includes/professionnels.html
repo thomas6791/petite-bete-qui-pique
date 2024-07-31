@@ -1,0 +1,11 @@
+<div id="professionnels" class="inside">
+    <ul>
+        {% for item in site.data.professionnels %}
+            <a href="{{ item.link }}">
+                <li><img src="{{ item.image }}" alt="">
+                    <h3>{{item.name}}</h3>
+                </li>
+            </a>
+        {% endfor %}
+    </ul>
+</div>
