@@ -1,8 +1,25 @@
 #form {
-    border: solid 1px;
-    width: 100%;
+    //border: solid 1px;
+    width: 50%;
+    p, input, label, textarea {font-size: 1em; width: 100%; margin: 0; padding: 0; box-sizing: border-box;}
     .inline_form {
-        display: flex;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
     }
-    p, input, label, textarea {font-size: 1em; width: 100%; margin: 0; padding: 0;}
+    input, select {margin-bottom: 5px; line-height: 2em;}
+    select {height: 2em; width: 100%;}
+    button {
+        background-color: $yellow;
+        width: 100%;
+        cursor: pointer;
+        border: none;
+        font-size: 1em;
+    }
+    .checkbox {
+        input {width: fit-content;}
+        label {font-size: 0.8em;}
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
 }
