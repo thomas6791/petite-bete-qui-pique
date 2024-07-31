@@ -1,0 +1,45 @@
+<form action='/send' id='form' method='POST' name='contact'><input type='hidden' name='form-name' value='contact' />
+    <div class="">
+      <p><label><input type="text" name="lastname" required="true" placeholder="Nom*" /></label></p>
+      <p><label><input type="text" name="firstname" required="true" placeholder="Prénom*" /></label></p>
+    </div>
+    <div class="">
+      <p><label><input type="email" name="email" required="true" placeholder="Email*" /></label></p>
+      <p><label><input type="tel" name="tel" required="true" placeholder="Tel*"></label></p>
+    </div>
+    <div class="">
+      <p>
+          <select name="objet" required="true" placeholder="Objet*">
+            <option value="">Je suis un particulier/une entreprise ?</option>
+            <option value="particulier">Particulier</option>
+            <option value="entreprise">Entreprise</option>
+        </select>
+      
+      </p>
+    </div>
+    <!--
+    <div>
+      <p><label><input type="text" name="adresse" required="true" placeholder="Adresse*"></label></p>
+    </div>
+    -->
+    <div class="">
+      <p><label for=""><input type="text" name="code postal" required="true" placeholder="Code Postal*"></label></p>
+      <p><label for=""><input type="text" name="ville" required="true" placeholder="Ville*"></label></p>
+    </div>
+    <!--
+    -->
+    <div>
+      <p>
+        <label for=""><textarea type="text" name="message" placeholder="Message" rows="10"></textarea></label>
+      </p>
+    </div>
+    <div class="checkbox">
+      <label for="">
+        <input type="checkbox" name="RGPD" value="J'accepte que mes données soient transmises dans le cadre de ma demande" required="true">
+        J'accepte que mes données soient transmises dans le cadre de ma demande*
+      </label>
+    </div>
+    <div id="button">
+      <button type="submit" class="btn">Envoyer</button>
+    </div>
+  </form>
