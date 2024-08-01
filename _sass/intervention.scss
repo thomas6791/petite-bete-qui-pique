@@ -25,6 +25,7 @@
     overflow-x: scroll;
     padding-bottom: 15px;
     padding-top: 10px;
+    animation: 3s linear 1s infinite alternate scroll-horizontal;
     a {text-decoration: none;}
     a li:hover {
         //background-color: $yellow;
@@ -77,3 +78,12 @@
         }
     }
 }
+
+@keyframes scroll-horizontal {
+    0% {
+        left: 100%;
+    }
+    100% {
+        left: -100%;
+    }
+  }

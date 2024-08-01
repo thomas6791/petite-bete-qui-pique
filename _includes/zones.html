@@ -1,5 +1,5 @@
-<ul>
-    <a href="">
-        <li></li>
-    </a>
+<ul class="zones">
+    {% for item in site.data.zones %}
+        <a href="{{ item.link }}"><li>{{ item.name }}</li></a>
+    {% endfor %}
 </ul>

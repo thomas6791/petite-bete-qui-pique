@@ -68,6 +68,21 @@ p, input, label, a, textarea, select, button {
         align-self: end;
     }
 }
+.zones {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    a {
+        text-decoration: none;
+        color: black;
+        li { border: solid 1px; width: auto;
+            padding: 3px 5px;
+            border-radius: 2px;
+            margin-right: 3px;
+            margin-bottom: 3px;
+        }
+    }
+}
 @media only screen and (max-width: 40em) {
     #urgence {
         flex-direction: column;
