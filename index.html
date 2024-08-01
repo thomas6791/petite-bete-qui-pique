@@ -1,9 +1,21 @@
 ---
 layout: default
 title: La petite bête qui pique | Entreprise de traitement des nuisibles
+chapo: La petite bête qui pique, <strong>entreprise de traîtement des nuisibles</strong> pour les particuliers et les professionnels. Nous couvrons un large ensemble d’interventions. Que ce soit la <strong>destruction de nid de guêpes ou de frelons</strong>, la <strong>dératisation</strong> de votre maison ou de vos locaux, la <strong>désinsectisation de cafards ou de punaises de lits</strong>, notre entreprise peut répondre avec efficacité à vos différents problèmes.
 ---
 <section>
-    {% include chapo.html %}
+    <div id="chapo" class="inside">
+        <div class="chapo_img">
+            <img src="/assets/images/la-petite-bete-qui-pique-logo.png" alt="">
+        </div>
+        <div class="chapo_text">
+            <p>{{page.chapo}}
+            </p>
+            <div class="chapo_cta">
+                <a href="" class="btn yellow">Nous contacter</a>
+            </div>
+        </div>
+    </div>
 </section>
 <section>
     {% include urgence.html %}
