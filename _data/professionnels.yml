@@ -9,19 +9,19 @@
   image: /
 - name: Commerces
   link: /
-  image: /
+  image: /assets/images/professionnel/commerce.jpg
 - name: Education
   link: /
-  image: /
+  image: /assets/images/professionnel/ecole.jpg
 - name: Industries
   link: /
   image: /
 - name: Hôtellerie
   link: /
-  image: /
+  image: /assets/images/professionnel/hotel.jpg
 - name: Restauration
   link: /restaurants
-  image: /
+  image: /assets/images/professionnel/restaurant.jpg
 - name: Associations
   link: /
   image: /

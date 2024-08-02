@@ -14,7 +14,7 @@
     </div>
     <div class="nav inside">
         <div>
-            <a href=""><img src="/assets/images/la-petite-bete-qui-pique-logo.png" class="logo_link" alt="" width="80px">
+            <a href="/"><img src="/assets/images/la-petite-bete-qui-pique-logo.png" class="logo_link" alt="" width="80px">
             </a>
         {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
