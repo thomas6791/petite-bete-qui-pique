@@ -88,6 +88,30 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
         }
     }
 }
+.banner_home {
+    background-image: url("/assets/images/banner-guepe.jpg");
+    height: 40vh;
+    width: 100%;
+    background-position: center;
+    margin: 3em 0;
+    div:first-of-type {
+        display: flex;
+        justify-content: flex-end;
+        color: white;
+        .banner_text {
+            display: flex;
+            flex-direction: column;
+            h2 {
+                font-size: 3.2em;
+                margin-bottom: 0.3em;
+            }
+            .banner_cta {
+                a {font-size: 1.2em; color: white;}
+            }
+        }
+    }
+
+}
 @media only screen and (max-width: 40em) {
     #urgence {
         flex-direction: column;
@@ -124,6 +148,26 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
         }
     }
     .inside {padding: 0 !important;}
-    article {padding: 0 1.2em}
+    section {padding: 0 15px;}
+    article {padding: 0;}
     footer {padding-left:1.2em; padding-right: 1.2em;}
+    .banner_text {
+        justify-content: center;
+        h2 {margin-bottom: 0;
+            line-height: 1em;
+            text-align: center;
+            font-size: 4em;}
+            .banner_cta {
+                width: 100%;
+                display: flex;
+                justify-content: center !important;
+                a {
+                    width: 70%;
+                    margin-bottom: 1.2em;
+                    text-align: center;
+                    font-size: 1.3em;
+                    line-height: 2em;
+                }
+            }
+    }
 }
