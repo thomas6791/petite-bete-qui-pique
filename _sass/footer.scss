@@ -1,0 +1,12 @@
+footer {
+    background-color: $black;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: white;
+    a {color: white; text-decoration: none;}
+    .mentions {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.8em;
+    }
+}
