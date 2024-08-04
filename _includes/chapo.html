@@ -10,8 +10,10 @@
         <h1>{{page.titre}}</h1>
         <p>{{page.chapo}}
         </p>
+        {% if page.titre != "Contact" %}
         <div class="chapo_cta">
             <a href="/contact.html" class="btn yellow">Nous contacter</a>
         </div>
+        {% endif %}
     </div>
 </div>
