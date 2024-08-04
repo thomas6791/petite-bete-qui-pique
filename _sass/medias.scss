@@ -23,6 +23,9 @@
  
 @media only screen and (max-width: 40em) { 
   //#nav_main {display: none;}
+  .inside {padding: 0;}
+  section {padding: 0 15px;}
+  article {padding: 0;}
 } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
  
 /* Medium screens - TABLET */

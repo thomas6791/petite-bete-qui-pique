@@ -77,6 +77,7 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
+    padding: 0;
     a {
         text-decoration: none;
         color: black;
@@ -147,9 +148,6 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
             }
         }
     }
-    .inside {padding: 0 !important;}
-    section {padding: 0 15px;}
-    article {padding: 0;}
     footer {padding-left:1.2em; padding-right: 1.2em;}
     .banner_text {
         justify-content: center;
