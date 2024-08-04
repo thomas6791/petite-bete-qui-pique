@@ -111,4 +111,18 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
         word-break: break-all;
         font-size: 4.5em;
     }
+    #chapo{
+        .chapo_img {display: none;}
+        .chapo_text {width: 100%;}
+        .chapo_cta {
+            display: flex;
+            justify-content: center;
+            a {width: 70%; margin-bottom: 1.2em; text-align: center; font-size: 1.3em; line-height: 2em;
+                margin-bottom: 0;
+            }
+        }
+    }
+    .inside {padding: 0 !important;}
+    article {padding: 0 1.2em}
+    footer {padding-left:1.2em; padding-right: 1.2em;}
 }
