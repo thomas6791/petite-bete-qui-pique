@@ -113,6 +113,13 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
     }
 
 }
+.initial_liste {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    &.grid_three {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
 @media only screen and (max-width: 40em) {
     #urgence {
         flex-direction: column;
