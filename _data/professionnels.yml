@@ -1,12 +1,12 @@
 - name: Agriculture & Elevage
   link: /
-  image: /
+  image: /assets/images/professionnel/agriculture.jpg
 - name: Bâtiments & Travaux public
   link: /
-  image: /
+  image: /assets/images/professionnel/btp2.jpeg
 - name: Collectivités
   link: /
-  image: /
+  image: /assets/images/professionnel/bureau.jpg
 - name: Commerces
   link: /
   image: /assets/images/professionnel/commerce.jpg
@@ -15,7 +15,7 @@
   image: /assets/images/professionnel/ecole.jpg
 - name: Industries
   link: /
-  image: /
+  image: /assets/images/professionnel/industrie.jpg
 - name: Hôtellerie
   link: /
   image: /assets/images/professionnel/hotel.jpg
@@ -27,4 +27,4 @@
   image: /
 - name: Hôpitaux
   link: /
-  image: /
+  image: /assets/images/professionnel/hospital.jpeg
