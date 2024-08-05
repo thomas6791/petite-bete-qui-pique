@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="fr-fr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://www.la-petite-bete-qui-pique.fr">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="La petite bête qui pique">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    <meta name="robots" content="index,follow">
+  </head>
+  <body>
+    <header>
+    {% include navigation.html %}
+    </header>
+    <main class="pro">
+        <article>
+          {{ content }}
+        </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
+<script type="text/javascript" src="/assets/js/nav.js"></script>
+<script type="application/ld+json">
+  {
+ "@context": "https://schema.org/",
+ "@type": "LocalBusiness",
+   "name": "La petite bête qui pique",
+   "image": "https://www.la-petite-bete-qui-pique.fr/assets/images/icones/la-petite-bete-qui-pique-logo.png",
+   "location": {
+     "@type": "Place",
+     "geo": {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+         "@type": "GeoCoordinates",
+         "latitude": "49.07836098181",
+         "longitude": "-1.315978998931"
+       },
+       "geoRadius": "100000"
+     }
+ },
+ "url" : "https://www.la-petite-bete-qui-pique.fr",
+ "telephone": "+33669515950",
+ "priceRange": "€€",
+ "address": {
+ "@type": "PostalAddress",
+ "addressLocality": "Savigny",
+ "addressRegion": "FR",
+ "postalCode": "50210",
+ "streetAddress": "10 route de la carriere"
+ },
+"openingHours": [
+ "Mo-Sun 07:00-21:00"
+],
+ "contactPoint" : [
+   { "@type" : "ContactPoint",
+     "telephone" : "+33669515950",
+     "email": "mailto:lapetitebetequipique@outlook.fr",
+     "contactType" : "customer service"
+   } ] }
+}</script>

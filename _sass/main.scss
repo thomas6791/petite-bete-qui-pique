@@ -120,6 +120,32 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    cursor: pointer;
+  }
+  
+  summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+  }
+  
+  details[open] {
+    padding: 0.5em;
+  }
+  
+  details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+  }
+  summary::marker {
+    content: '';
+    //font-size: 1.2em;
+    display: none;
+  }
 @media only screen and (max-width: 40em) {
     #urgence {
         flex-direction: column;

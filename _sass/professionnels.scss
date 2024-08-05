@@ -18,7 +18,12 @@
         }
     }
 }
+
 @media only screen and (max-width: 40em) {
+    .pro {
+        padding: 0 15px;
+        padding-bottom: 15px;
+    }
     #professionnels {
         ul {
             grid-template-columns: repeat(2, 1fr);
