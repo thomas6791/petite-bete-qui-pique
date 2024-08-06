@@ -1,6 +1,6 @@
 ---
 layout: pro
-title: Restaurant
+title: Dératisation et traitement des nuisibles des restaurants | La petite bête qui pique
 permalink: /restaurants
 titre: Dératisation et traitement des nuisibles dans les restaurants
 chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre restaurant ? Vous pouvez faire appel à nos services de <strong>dératisation pour les restaurants</strong>.
