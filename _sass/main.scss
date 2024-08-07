@@ -147,14 +147,15 @@ details {
     display: none;
   }
 .map_form {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    form {width: 60%;}
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    form {width: 100% !important;}
     .map {
         display: flex;
         width: 100%;
         height: 100%;
+        img {width: 100%; height: 100%; object-fit: cover;}
     }
 }
 @media only screen and (max-width: 40em) {
