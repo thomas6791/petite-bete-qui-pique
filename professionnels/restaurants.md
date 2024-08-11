@@ -38,7 +38,7 @@ chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre res
   <summary>
   <h3>Quel est le prix d’une dératisation pour un restaurant ?</h3>
   </summary>
-  <p>Pour un restaurant, les coûts peuvent être plus élevés en raison de la nécessité de respecter des normes strictes de sécurité alimentaire et d'hygiène. Le prix moyen peut varier de 200 à 600 euros, voire plus pour des cas complexes nécessitant des interventions répétées ou des mesures de contrôle continue.</p>
+  <p>Pour un restaurant, les coûts peuvent être plus élevés en raison de la nécessité de respecter des normes strictes de sécurité alimentaire et d'hygiène. Le prix moyen peut varier de 250 à 600 euros, voire plus pour des cas complexes nécessitant des interventions répétées ou des mesures de contrôle continu à l’aide d’un contrat annuel comprenant généralement 4 passages ou plus si la présence des rongeurs constatée se révèle importante.</p>
 </details>
 <details>
   <summary>
