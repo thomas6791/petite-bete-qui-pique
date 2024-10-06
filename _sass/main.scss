@@ -23,20 +23,27 @@ main {
     font-size: 3em;
     margin-top: 0;
     margin-bottom: 0;
+    color:$pink;
+    word-break: break-word;
     &.reduce {font-size: 5em;}
 }
 .shadow {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
-h1 {font-family: "Montserrat", sans-serif; color: $black; font-size: 2em; margin-bottom: 0; margin-top: 0;}
+h1 {font-family: "Montserrat", sans-serif; color: $black; font-size: 2em; margin-bottom: 0; margin-top: 0;
+    word-break: break-word;
+}
+.titre_home {color: $pink; font-size: 3em;}
 p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
     font-family: "Montserrat", sans-serif;
 }
 .big_titre {
     font-size: 8em;
     text-align: center;
-    &.black {color: $black;}
-    &.yellow {color: $yellow;}
+    &.black {color: $pink;}
+        //$black
+    &.yellow {color: $pink;}
+        //$yellow
     &.pink {color: $pink;}
 }
 #chapo {
@@ -66,8 +73,10 @@ p, input, label, a, textarea, select, button, h2,h3,h4,h5,h6,address, li {
         top: 90px;
         right: 0px;
         z-index: -1;
-        color: $yellow;
+        color: $pink; 
+        //$yellow
         margin: 0;
+        word-break: break-word;
     }
     .urgence_text {
         align-self: end;
@@ -168,6 +177,7 @@ details {
     }
 }
 @media only screen and (max-width: 40em) {
+    .titre_home {text-align: center;}
     #urgence {
         flex-direction: column;
         position: relative;
