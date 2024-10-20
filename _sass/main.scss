@@ -239,3 +239,20 @@ details {
             }
     }
 }
+.flex-bloc {
+    display: flex;
+}
+#particuliers {
+    h2 {text-align: left;}
+    align-items: center;
+}
+
+@media only screen and (max-width: 40em) {
+   .flex-bloc {
+    flex-direction: column;
+   } 
+   #particuliers {
+    padding: 0 15px;
+    h2 {text-align: center;}
+   }
+}
