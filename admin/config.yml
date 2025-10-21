@@ -6,5 +6,9 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    create: true
     fields:
-      - { name: Title }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Titre', name: 'titre', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
