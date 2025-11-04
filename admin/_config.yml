@@ -6,6 +6,8 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    output: true
+    permalink: /blog/:titre
     create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
