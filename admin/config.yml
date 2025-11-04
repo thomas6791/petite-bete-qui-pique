@@ -7,12 +7,10 @@ collections:
     label: 'Blog'
     folder: '_posts/'
     output: true
-    permalink: /blog/:titre
     create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Titre', name: 'titre', widget: 'string' }
-      - { label: 'URL/Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
       
