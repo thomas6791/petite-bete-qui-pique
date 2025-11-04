@@ -27,6 +27,8 @@ Un contrat de sanitation vise à prévenir et à lutter contre tout nuisibles po
 ## Quelles sont les types d’entreprises qui sont concernées par la mise en place d’un contrat de sanitation ?
 
 Les principales entreprises concernées par la mise en place d’un contrat de sanitation sont pour l'essentiel les entreprises qui fournissent de la nourriture aux consommateurs (article 17 de l’arrêté ministériel du 9/05/95). De plus, selon les articles 13 et 14 de l’arrêté du 29/09/1997, la mise en place d’un contrat de sanitation est également applicable aux établissements de restauration collective à caractère social.
+
+
 Enfin, les entreprises ayant une activité de commerce de détail, d'entreposage et de transport de produits d’origine animale et denrées alimentaires en contenant sont aussi concernées selon les exigences des dispositions de l’arrêté du 21/12/2009.
 Les entreprises ainsi concernées par la mise en place d’un contrat de sanitation sont donc les suivantes : 
 
@@ -50,7 +52,11 @@ Ainsi on peut citer les entreprises et secteurs suivants qui ne sont pas asujett
 
 Parmi les secteurs et types d’entreprises concernées par le contrat, il existe néanmoins quelques exceptions sous certaines conditions.
 Ainsi les petits commerces de détail manipulant des produits d’origine animale peuvent bénéficier d’une dérogation si leur activité est marginale, localisée et restreinte.
+
+
 Plus concrètement, cette dérogation est accordée si le volume des produits fournis à d’autres établissements professionnels est limité et que les établissements destinataires sont dans un périmètre proche, en général moins de 80km.
+
+
 Autre critère, le caractère marginal de l’activité. Pour obtenir cette dérogation, l’activité ne doit pas constituer une part importante des activités de l’établissement d’origine, et certains produits très périssables (ex: la viande hachée) sont exclus de cette dérogation.
 Bien que pouvant être exemptées, ces entreprises doivent tout des même respecter un minimum de conditions.
 
