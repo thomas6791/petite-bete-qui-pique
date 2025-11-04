@@ -5,11 +5,12 @@ media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: '_posts/'
-    output: true
+    folder: '_posts'
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Titre', name: 'titre', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
