@@ -5,7 +5,6 @@ title: "Contrat de sanitation : Définition et obligations"
 titre: "Contrat de sanitation : Définition et obligations"
 ---
 Le **contrat de sanitation** est un pilier fondamental de la sécurité et de l’hygiène alimentaire pour toutes les entreprises manipulant des denrées alimentaires. Il s’agit d’un accord conclu entre un établissement comme un restaurant, un commerce alimentaire ou une usine de production et un prestataire spécialisé dans la lutte contre les nuisibles. Son objectif : prévenir, détecter et éliminer efficacement la présence d’insectes, de rongeurs ou d’autres parasites susceptibles de compromettre la salubrité des locaux.
-{: .pull-quote }
 
 Au-delà de son importance pratique, le **contrat de sanitation** répond à des exigences réglementaires strictes imposées aux métiers de bouche, aux établissements de restauration collective ou encore aux entreprises de transport et de stockage de produits alimentaires. Il constitue également une démarche de qualité essentielle pour garantir un environnement propre et rassurer les consommateurs sur la conformité sanitaire des produits.
 
