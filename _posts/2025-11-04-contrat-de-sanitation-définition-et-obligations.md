@@ -1,8 +1,8 @@
 ---
 layout: post
+permalink: /blog/contrat-sanitation-definition-obligations
 title: "Contrat de sanitation : Définition et obligations"
 titre: "Contrat de sanitation : Définition et obligations"
-permalink: /blog/contrat-sanitation-definition-obligations
 ---
 Le **contrat de sanitation** est un pilier fondamental de la sécurité et de l’hygiène alimentaire pour toutes les entreprises manipulant des denrées alimentaires. Il s’agit d’un accord conclu entre un établissement comme un restaurant, un commerce alimentaire ou une usine de production et un prestataire spécialisé dans la lutte contre les nuisibles. Son objectif : prévenir, détecter et éliminer efficacement la présence d’insectes, de rongeurs ou d’autres parasites susceptibles de compromettre la salubrité des locaux.
 
@@ -28,7 +28,6 @@ Un contrat de sanitation vise à prévenir et à lutter contre tout nuisibles po
 
 Les principales entreprises concernées par la mise en place d’un contrat de sanitation sont pour l'essentiel les entreprises qui fournissent de la nourriture aux consommateurs (article 17 de l’arrêté ministériel du 9/05/95). De plus, selon les articles 13 et 14 de l’arrêté du 29/09/1997, la mise en place d’un contrat de sanitation est également applicable aux établissements de restauration collective à caractère social.
 
-
 Enfin, les entreprises ayant une activité de commerce de détail, d'entreposage et de transport de produits d’origine animale et denrées alimentaires en contenant sont aussi concernées selon les exigences des dispositions de l’arrêté du 21/12/2009.
 Les entreprises ainsi concernées par la mise en place d’un contrat de sanitation sont donc les suivantes : 
 
@@ -53,9 +52,7 @@ Ainsi on peut citer les entreprises et secteurs suivants qui ne sont pas asujett
 Parmi les secteurs et types d’entreprises concernées par le contrat, il existe néanmoins quelques exceptions sous certaines conditions.
 Ainsi les petits commerces de détail manipulant des produits d’origine animale peuvent bénéficier d’une dérogation si leur activité est marginale, localisée et restreinte.
 
-
 Plus concrètement, cette dérogation est accordée si le volume des produits fournis à d’autres établissements professionnels est limité et que les établissements destinataires sont dans un périmètre proche, en général moins de 80km.
-
 
 Autre critère, le caractère marginal de l’activité. Pour obtenir cette dérogation, l’activité ne doit pas constituer une part importante des activités de l’établissement d’origine, et certains produits très périssables (ex: la viande hachée) sont exclus de cette dérogation.
 Bien que pouvant être exemptées, ces entreprises doivent tout des même respecter un minimum de conditions.
@@ -94,3 +91,41 @@ Parmi celles possibles on peut citer :
 * Retrait, saisie ou destruction immédiate des denrées alimentaires jugées impropres à la consommation.​
 * Rappel des lots alimentaires non conformes mis sur le marché.​
 * Procès-verbal dressé par les agents d’inspection et transmission au procureur de la République pour poursuites éventuelles.
+
+
+
+## Quelles entreprises ou prestataires peuvent fournir ou mettre en place ce type de contrat ?
+
+Les professionnels ou types de prestataires qui peuvent mettre en place un contrat de sanitation dans un établissement sont principalement des entreprises spécialisées dans la lutte contre les nuisibles, telles que :
+
+* Les **prestataires de dératisation, désinsectisation et désinfection agréés**.
+* Des sociétés de nettoyage spécialisées en sanitation intégrant des services de lutte contre les nuisibles, comme les insectes rampants, volants, et rongeurs.
+* Des techniciens formés et certifiés (par exemple, Certibiocide en France) intervenant régulièrement pour la prévention, la détection, et l’éradication des nuisibles.
+
+## Comment se déroule un contrat de sanitation ?
+
+La mise en place d’un contrat de sanitation intègre de nombreuses étapes pour qu’il soit efficace et aux normes. Le prestataire mettant en place un contrat de sanitation respecte le plus souvent les étapes suivantes : 
+
+### Détection des nuisibles
+
+Le prestataire agréé procède à une inspection complète des locaux, identifiant la présence éventuelle de nuisibles (rongeurs, insectes, cafards, mites, etc.), leurs espèces et origines. Cette étape permet de déterminer l’étendue des infestations et d’adapter la lutte.​
+
+### Évaluation et diagnostic sanitaire
+
+Le professionnel en nuisible procède également à l’analyse du niveau d’hygiène et de la propreté des lieux. Le professionnel analyse aussi bien les lieux d’installations que les pratiques en place.
+
+### Destruction et installation des dispositifs
+
+Selon l’analyse et les nuisibles détectés, des mesures sont prises à la hauteur de ce qui a été constaté. L’éradication des nuisibles et l’installation de dispositifs permettant de lutter contre les futurs nuisibles et selon leur nature est mis en place.
+
+### Prévention et recommandations
+
+Le professionnel conseille également l’établissement sur les moyens à mettre en place pour empêcher le retour des nuisibles : recommandations de nettoyage, aménagement des locaux, et actions pour limiter les facteurs propices à l’infestation.​
+
+### Suivi et traçabilité
+
+Enfin, le **contrat de sanitation** prévoit la réalisation de visites régulières (**en général 3 par an**), la vérification et le renouvellement des dispositifs (appâts, pièges), l’élaboration de rapports d’intervention et la mise à jour des plans de sanitation. Les rapports détaillent les zones traitées, les produits employés et les dates d’intervention, pour permettre une traçabilité lors des contrôles sanitaires officiels.
+
+
+
+En conclusion, le **contrat de sanitation** s’impose comme un élément incontournable pour toute entreprise manipulant, stockant ou distribuant des denrées alimentaires. Au-delà d’une simple formalité réglementaire, il représente un véritable engagement envers la sécurité sanitaire, la qualité des produits et la confiance des consommateurs. En assurant la prévention, la détection et la maîtrise des nuisibles, le contrat de sanitation protège non seulement la santé publique, mais également la réputation et la pérennité des établissements concernés. Confier la **mise en place et le suivi d’un contrat de sanitation** à un prestataire agréé, c’est garantir un environnement propre, conforme et durable, où l’hygiène alimentaire reste une priorité absolue.
