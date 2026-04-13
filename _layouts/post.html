@@ -45,6 +45,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div itemprop="articleBody">
           {{ content }}
           </div>
+          <div class="author_article" itemprop="author" itemscope itemtype="https://schema.org/Person">
+            {% for author in site.authors where author.name == page.author %}
+            <p>Par <span itemprop="name">{{ author.name }}</span>{{ author.content | markdownify }}</p>
+            {% endfor %}
+          </div>
         </article>
     </main>
     {% include footer.html %}
