@@ -27,9 +27,9 @@ Un contrat de sanitation vise à prévenir et à lutter contre tout nuisibles po
 
 ## Quelles sont les types d’entreprises qui sont concernées par la mise en place d’un contrat de sanitation ?
 
-Les principales entreprises concernées par la mise en place d’un contrat de sanitation sont pour l'essentiel les entreprises qui fournissent de la nourriture aux consommateurs (article 17 de l’arrêté ministériel du 9/05/95). De plus, selon les articles 13 et 14 de l’arrêté du 29/09/1997, la mise en place d’un contrat de sanitation est également applicable aux établissements de restauration collective à caractère social.
+Les principales entreprises concernées par la mise en place d’un contrat de sanitation sont pour l'essentiel les entreprises qui fournissent de la nourriture aux consommateurs ([article 17 de l’arrêté ministériel du 9/05/95](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006613620/1998-07-28)). De plus, selon les articles 13 et 14 de l’[arrêté du 29/09/1997](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000750248), la mise en place d’un contrat de sanitation est également applicable aux établissements de restauration collective à caractère social.
 
-Enfin, les entreprises ayant une activité de commerce de détail, d'entreposage et de transport de produits d’origine animale et denrées alimentaires en contenant sont aussi concernées selon les exigences des dispositions de l’arrêté du 21/12/2009.
+Enfin, les entreprises ayant une activité de commerce de détail, d'entreposage et de transport de produits d’origine animale et denrées alimentaires en contenant sont aussi concernées selon les exigences des dispositions de l’[arrêté du 21/12/2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021676844/).
 Les entreprises ainsi concernées par la mise en place d’un contrat de sanitation sont donc les suivantes : 
 
 * Les restaurants, bars, cafés et métiers de bouche (boulangeries, charcuteries, traiteurs, pâtisseries).​
@@ -93,8 +93,6 @@ Parmi celles possibles on peut citer :
 * Rappel des lots alimentaires non conformes mis sur le marché.​
 * Procès-verbal dressé par les agents d’inspection et transmission au procureur de la République pour poursuites éventuelles.
 
-
-
 ## Quelles entreprises ou prestataires peuvent fournir ou mettre en place ce type de contrat ?
 
 Les professionnels ou types de prestataires qui peuvent mettre en place un contrat de sanitation dans un établissement sont principalement des entreprises spécialisées dans la lutte contre les nuisibles, telles que :
@@ -126,8 +124,6 @@ Le professionnel conseille également l’établissement sur les moyens à mettr
 ### Suivi et traçabilité
 
 Enfin, le **contrat de sanitation** prévoit la réalisation de visites régulières (**en général 3 par an**), la vérification et le renouvellement des dispositifs (appâts, pièges), l’élaboration de rapports d’intervention et la mise à jour des plans de sanitation. Les rapports détaillent les zones traitées, les produits employés et les dates d’intervention, pour permettre une traçabilité lors des contrôles sanitaires officiels.
-
-
 
 En conclusion, le **contrat de sanitation** s’impose comme un élément incontournable pour toute entreprise manipulant, stockant ou distribuant des denrées alimentaires. Au-delà d’une simple formalité réglementaire, il représente un véritable engagement envers la sécurité sanitaire, la qualité des produits et la confiance des consommateurs. En assurant la prévention, la détection et la maîtrise des nuisibles, le contrat de sanitation protège non seulement la santé publique, mais également la réputation et la pérennité des établissements concernés. Confier la **mise en place et le suivi d’un contrat de sanitation** à un prestataire agréé, c’est garantir un environnement propre, conforme et durable, où l’hygiène alimentaire reste une priorité absolue.
 
