@@ -5,7 +5,7 @@ title: "Frais de dératisation : À la charge du locataire ou du propriétaire ?
 titre: "Frais de dératisation : À la charge du locataire ou du propriétaire ?"
 author: "Céline Wambst"
 ---
-Vous avez aperçu des souris et des rats dans votre location et vous vous demandez sans doute qui doit payer les frais pour éliminer la présence de ces nuisibles dans votre maison ou dans votre appartement ? Vous allez voir que le paiement des **frais de dératisation d’une location** peut différer selon les cas et qu’il ne faut pas se précipiter avant d’effectuer des achats ou de contacter un professionnel de la dératisation.
+Vous avez aperçu des souris et des rats dans votre location et vous vous demandez sans doute qui doit payer les frais pour éliminer la présence de ces nuisibles dans votre maison ou dans votre appartement ? Vous allez voir que le paiement des **frais de dératisation d’une location** peut différer selon les cas et qu’il ne faut pas se précipiter avant d’effectuer des achats ou de contacter un [professionnel de la dératisation](/deratisation).
 
 ## Que dit la loi concernant la gestion des nuisibles comme les rats et souris dans une location ?
 
