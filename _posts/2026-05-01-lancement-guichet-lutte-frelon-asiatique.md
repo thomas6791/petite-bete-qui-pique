@@ -22,7 +22,7 @@ Le guichet permet de subventionner:
 - Les actions de formation des intervenants et la recherche appliquée pour valider des méthodes de lutte plus efficaces et respectueuses de l’environnement
 
 ## Comment accéder au guichet ?
-Le guichet est uniquement accessible via la plateforme en ligne « Aides-territoires ».
+Le guichet est uniquement accessible via la [plateforme en ligne « Aides-territoires »](https://aides-territoires.beta.gouv.fr/).
 Les porteurs de projets peuvent y identifier les aides disponibles pour leur territoire et paramétrer des alertes personnalisées.
 
 ## Qu’est-ce qui change par rapport à avant ?
@@ -46,3 +46,9 @@ Sur la biodiversité, en tant que prédateur généraliste, il impacte l'équili
 
 Le **déploiement de ce guichet d'aide pour lutter contre le frelon asiatique** de trois millions d'euros marque une volonté politique de passer d'une gestion subie à une stratégie de lutte organisée et financée.
 Si l'espoir d'éradiquer le frelon asiatique est désormais considéré comme "vain", l'objectif de ce plan national sur six ans est de limiter ses impacts économiques et environnementaux par une gouvernance partagée. La réussite de ce dispositif reposera sur la mobilisation des acteurs locaux via la plateforme « Aides-territoires » et sur l'adoption de pratiques de piégeage sélectives garantissant la préservation des autres insectes pollinisateurs.
+
+
+## Sources
+[Franceinfo : Lancement d'un guicher d'aide pour lutter contre le frelon asiatique](https://www.franceinfo.fr/environnement/biodiversite/frelon-asiatique-le-ministere-de-la-transition-ecologique-lance-un-guichet-d-aide-exceptionnel-de-3-millions-d-euros_7968209.html)()
+
+[Consultation publiques : plan national de lutte contre le frelon asiatique](https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html)
