@@ -41,7 +41,6 @@ Au niveau de l’indemnisation, la loi prévoit un dispositif d’indemnisation 
 ## Quel est l’état de la prolifération du frelon asiatique en France ?
 Introduit accidentellement dès 2004 dans le Lot-et-Garonne, le frelon asiatique n’a cessé de progresser au cours des dernières années.
 En effet, ce dernier progresse de 70 km par an et a ainsi colonisé toute la France métropolitaine, même si son installation en Corse n’est pas encore jugée totalement effective.
-
 Sa présence sur le territoire provoque de lourds dommages à la biodiversité française.
 Le frelon asiatique est responsable d'environ 20 % de la mortalité des abeilles. Un seul nid consomme environ 11 kg d'insectes par saison et son coût économique est estimé à 12 millions d'euros par an pour la filière.
 Les apiculteurs ne sont pas les seuls concernés. Les arboriculteurs et viticulteurs subissent des dégâts sur les fruits mûrs (raisins, pommes), ce qui favorise les maladies des cultures et complique les récoltes.
@@ -49,13 +48,21 @@ Les apiculteurs ne sont pas les seuls concernés. Les arboriculteurs et viticult
 En terme de santé publique, on estime entre 10 et 20 décès annuels liés aux piqûres d'hyménoptères en France, avec un risque accru par la proximité des nids avec les habitations
 Sur la biodiversité, en tant que prédateur généraliste, il impacte l'équilibre des écosystèmes en s'attaquant massivement aux pollinisateurs sauvages (mouches, guêpes).
 
+## Petit rappel, que faire si on est confronté à un nid de frelon asiatiques ?
+Si vous faites face à un nid de frelons asiatiques, il ne faut pas essayer de le détruire soi-même. Éloignez-vous d’abord, gardez au moins 10 mètres de distance.
+
+Par la suite, selon si le nid est sur un terrain privé ou communal les personnes à contacter diffère.
+
+Si c’est sur un terrain communal, contacter votre Mairie, elle interviendra ou vous redirigera vers les personnes compétentes.
+Si le nid se trouve sur un terrain privé, c’est généralement le propriétaire ou l’occupant qui doit faire appel à un [professionnel de la destruction de nids de frelons](/nid-de-frelons); les pompiers n’interviennent en général que s’il y a un danger immédiat ou un contexte sensible.
 
 
+## Conclusion
 Le **déploiement de ce guichet d'aide pour lutter contre le frelon asiatique** de trois millions d'euros marque une volonté politique de passer d'une gestion subie à une stratégie de lutte organisée et financée.
 Si l'espoir d'éradiquer le frelon asiatique est désormais considéré comme "vain", l'objectif de ce plan national sur six ans est de limiter ses impacts économiques et environnementaux par une gouvernance partagée. La réussite de ce dispositif reposera sur la mobilisation des acteurs locaux via la plateforme « Aides-territoires » et sur l'adoption de pratiques de piégeage sélectives garantissant la préservation des autres insectes pollinisateurs.
 
 
 ## Sources
-[Franceinfo : Lancement d'un guicher d'aide pour lutter contre le frelon asiatique](https://www.franceinfo.fr/environnement/biodiversite/frelon-asiatique-le-ministere-de-la-transition-ecologique-lance-un-guichet-d-aide-exceptionnel-de-3-millions-d-euros_7968209.html)
+[Franceinfo : Lancement d'un guicher d'aide pour lutter contre le frelon asiatique](https://www.franceinfo.fr/environnement/biodiversite/frelon-asiatique-le-ministere-de-la-transition-ecologique-lance-un-guichet-d-aide-exceptionnel-de-3-millions-d-euros_7968209.html)()
 
 [Consultation publiques : plan national de lutte contre le frelon asiatique](https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html)
