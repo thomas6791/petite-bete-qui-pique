@@ -48,7 +48,7 @@ Les apiculteurs ne sont pas les seuls concernés. Les arboriculteurs et viticult
 En terme de santé publique, on estime entre 10 et 20 décès annuels liés aux piqûres d'hyménoptères en France, avec un risque accru par la proximité des nids avec les habitations
 Sur la biodiversité, en tant que prédateur généraliste, il impacte l'équilibre des écosystèmes en s'attaquant massivement aux pollinisateurs sauvages (mouches, guêpes).
 
-## Petit rappel, que faire si on est confronté à un nid de frelon asiatiques ?
+## Petit rappel, que faire si on est confronté à un nid de frelons asiatiques ?
 Si vous faites face à un nid de frelons asiatiques, il ne faut pas essayer de le détruire soi-même. Éloignez-vous d’abord, gardez au moins 10 mètres de distance.
 
 Par la suite, selon si le nid est sur un terrain privé ou communal les personnes à contacter diffère.
