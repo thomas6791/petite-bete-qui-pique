@@ -40,6 +40,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% include navigation.html %}
     </header>
     <main>
+      <ul class="breadcrumb inside">
+        <li><a href="/blog">Actualités</a></li>
+        <span>></span>
+        <li>{{ page.titre }}</li>
+      </ul>
         <article class="inside post_margin" itemscope itemtype="https://schema.org/BlogPosting">
             <h1 itemprop="name">{{ page.titre }}</h1>
           <div itemprop="articleBody">

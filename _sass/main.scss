@@ -176,8 +176,21 @@ details {
         max-width: 100%;
     }
 }
-.post_margin {
+.breadcrumb {
     margin-top: 7em;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    opacity: 0.7;
+    li {margin-right: 5px; font-size: 0.8em;
+        a {text-decoration: none; color: black;}
+    }
+    span {margin-right: 5px;}
+    margin-bottom: 2em;
+}
+.post_margin {
+    //margin-top: 7em;
 }
 @media only screen and (max-width: 40em) {
     .titre_home {text-align: center;}
