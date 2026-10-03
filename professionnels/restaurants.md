@@ -11,7 +11,7 @@ chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre res
 <section class="inside">
 <p>Les restaurants font parti des établissements privilégiés par les rats et les autres nuisibles. La quantité de denrées alimentaires qui y sont présentes offre un environnement propice à la prolifération de ces nuisibles. Il n’est donc pas rare d’y rencontrer par exemple des rats même si les conditions d’hygiène du restaurant sont respectées. Cependant la présence des rats et d’autres nuisibles peuvent avoir de graves conséquences, en entachant sérieusement la réputation du restaurant et pouvant même contraindre l’établissement à la fermeture. En cas de doute de leur présence, il est impératif de faire appel à un <strong>dératiseur ou à désinsectiseur</strong> pour traiter rapidement le problème.</p>
 <h2>Prestations de service à destination des restaurateurs</h2>
-<ul>
+<ul class="grid_columns 2">
   <li><h3>Audit / diagnostic initial</h3>
     <ul>
       <li>Inspection des cuisines, réserves, plonge, locaux poubelles, caves, faux plafonds, zones techniques et abords.</li>
@@ -75,6 +75,10 @@ chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre res
     </ul>
   </li>
 </ul>
+</section>
+<section class="inside">
+  <h2>Les secteurs où nous intervenons</h2>
+  {% include zones.html %}
 </section>
 <section class="inside">
 <h2>Questions fréquentes</h2>
