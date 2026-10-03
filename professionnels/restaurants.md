@@ -77,7 +77,7 @@ chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre res
 </ul>
 </section>
 <section class="inside">
-  <h2>Les secteurs où nous intervenons</h2>
+  <h2>Les secteurs où nous intervenons dans le département de la Manche (50)</h2>
   {% include zones.html %}
 </section>
 <section class="inside">
