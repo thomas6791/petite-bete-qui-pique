@@ -10,6 +10,40 @@ chapo: Vous rencontrez un problème de rats ou de nuisibles au sein de votre res
 </section>
 <section class="inside">
 <p>Les restaurants font parti des établissements privilégiés par les rats et les autres nuisibles. La quantité de denrées alimentaires qui y sont présentes offre un environnement propice à la prolifération de ces nuisibles. Il n’est donc pas rare d’y rencontrer par exemple des rats même si les conditions d’hygiène du restaurant sont respectées. Cependant la présence des rats et d’autres nuisibles peuvent avoir de graves conséquences, en entachant sérieusement la réputation du restaurant et pouvant même contraindre l’établissement à la fermeture. En cas de doute de leur présence, il est impératif de faire appel à un <strong>dératiseur ou à désinsectiseur</strong> pour traiter rapidement le problème.</p>
+<h2>Prestations de service à destination des restaurateurs</h2>
+  <ul>
+    <li>
+      <h3>Audit / diagnostic initial</h3>
+      <ul>
+        <li>Inspection des cuisines, réserves, plonge, locaux poubelles, caves, faux plafonds, zones techniques et abords.
+        </li>
+        <li>Recherche des traces d’activité et des points d’entrée.</li>
+        <li>Identification des facteurs favorisant les nuisibles.</li>
+        <li>Compte rendu avec photos et préconisations.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Lutte contre les rongeurs</h3>
+    </li>
+    <li>
+      <h3>Désinsectisation</h3>
+    </li>
+    <li>
+      <h3>Prévention contre les insectes volants</h3>
+    </li>
+    <li>
+      <h3>Traitement des locaux et zones spécifiques</h3>
+    </li>
+    <li>
+      <h3>Contrat de lutte antiparasitaire</h3>
+    </li>
+    <li>
+      <h3>Suivi documentaire / traçabilité</h3>
+    </li>
+    <li>
+      <h3></h3>
+    </li>
+  </ul>
 </section>
 <section class="inside">
 <h2>Questions fréquentes</h2>
